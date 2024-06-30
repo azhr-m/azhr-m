@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 <!--
+https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=34aee3&random=false&width=435&height=40&lines=Hi%2C+I%27m+Azhar+M;Fullstack+Developer
+
 **azhr-m/azhr-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
